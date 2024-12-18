@@ -8,7 +8,7 @@
 :root {
   --colors-common-white: #ffffff;
   --colors-common-black: #000000;
-  --colors-common-blue-50: #ad0d35;
+  --colors-common-blue-50: #d70a3d;
   --colors-common-blue-100: #cce3fd;
   --colors-common-blue-200: #99c7fb;
   --colors-common-blue-300: #66aaf9;
@@ -134,7 +134,7 @@
   --colors-base-default-700: #3f3f46;
   --colors-base-default-800: #27272a;
   --colors-base-default-900: #18181b;
-  --colors-base-primary-50: #ad0d35;
+  --colors-base-primary-50: #d70a3d;
   --colors-base-primary-100: #cce3fd;
   --colors-base-primary-200: #99c7fb;
   --colors-base-primary-300: #66aaf9;
